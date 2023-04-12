@@ -1,0 +1,49 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: #BAD7E9;
+}
+.Começo{
+    text-align: center;
+    font-style: arial;
+    color: #1A120B;
+    background-color: orange;
+    box-shadow: 10px 10px 10px #473C33;
+    
+}
+.imagem1{
+    text-align: center;
+    box-shadow: 5px 5px 5px #A459D1;
+    background-color: #332C39;
+  
+}
+.titulo1{
+    text-align: center;
+    color: blue;
+
+}
+
+.imagem2{
+    text-align: center;
+    background-color: #002B5B;
+    box-shadow: 5px 5px 5px #19A7CE;
+    
+}
+.titulo2{
+    text-align: center;
+    color: #1F8A70;
+}
+.video{
+    text-align: center;
+    background-color: #245953;
+    box-shadow: 5px 5px 5px #16FF00;
+}
+h1{
+    text-align: center;
+}
+.ultimotexto{
+    background-color: #245953;
+    box-shadow: 5px 5px 5px #16FF00;
+    color: #B9F3FC;
+}
